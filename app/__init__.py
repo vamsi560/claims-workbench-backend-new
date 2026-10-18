@@ -1,0 +1,1 @@
+"""Claims IDP FastAPI application."""
